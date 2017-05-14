@@ -39,6 +39,7 @@ app.use(mbaasExpress.fhmiddleware());
 
 app.use('/hello', require('./lib/hello.js')());
 app.use('/curricula', require('./lib/curricula.js')());
+app.use('/events', require('./lib/events.js')());
 
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());
