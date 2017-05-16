@@ -1,7 +1,9 @@
 {
     "id": "0001",
     "chef": "0001",
-    
+
+    "recipe": "0001",
+
     "address" : "Calle Alcalá 1",
     "city" : "MADRID",
     "province" : "MADRID",
