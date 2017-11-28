@@ -1,4 +1,4 @@
-# FeedHenry Hello World MBaaS Server
+# Chef App
 
 This is a blank 'hello world' FeedHenry MBaaS. Use it as a starting point for building your APIs. 
 
