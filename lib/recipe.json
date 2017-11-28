@@ -1,0 +1,31 @@
+{
+    "id": "0001",
+    "title": "Pato Pekín",
+    "photo": "",
+    "ingredients" : [
+        "1 trozo de jengibre fresco",
+        "1 magret de pato",
+        "1 Manzana",
+        "1 Pepino",
+        "Aceite de sésamo",
+        "Salsa Hoisin",
+        "½ vaso de azúcar",
+        "½ vaso de agua",
+        "Jugo de carne",
+        "Brotes de cilantro",
+        "Brotes de lemon grass"
+    ],
+    "directions": [
+        "Precalentamos el horno a una temperatura de 180ºC.",
+        "Para comenzar, vamos a hacer el crujiente de jengibre. Con ayuda de una cuchara, pelamos el trozo de jengibre y lo laminamos fino con una mandolina.",
+        "Para quitarle la acidez, lo introducimos en un cazo con agua fría. Cuando levante el hervor, retiramos del fuego. Retiramos el agua y volvemos a echar agua fría, repitiendo el proceso otra vez más.",
+        "Escurrimos las rodajas de jengibre y la ponemos a confitar en un cazo con la misma cantidad de agua que de azúcar durante 10-15 minutos.",
+        "Sacamos el jengibre y lo ponemos a deshidratar en el horno durante 5 minutos a 180ºC. Reservamos.",
+        "Por otro lado, cortamos el magret de pato en filetes finos sin la grasa. Reservamos.",
+        "Cortamos el pepino y la manzana en bastones pequeños. Reservamos.",
+        "Por último, ponemos el jugo de carne en un cazo y, cuando esté caliente, metemos los filetitos de pato durante 1 minuto para darle el toque de cocción deseado.",
+        "Emplatamos las tiras de jengibre y, sobre ellas, disponemos unos trozos de pepino y manzana y el filetito de pato en salsa.",
+        "Terminamos con un punto de salsa hoisin y unas gotas de aceite de sésamo.",
+        "Decoramos con los brotes y servimos."
+    ]
+}
