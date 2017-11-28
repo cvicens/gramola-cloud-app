@@ -1,0 +1,15 @@
+{
+    "id": "0001",
+    "chef": "0001",
+
+    "recipe": "0001",
+
+    "address" : "Calle Alcalá 1",
+    "city" : "MADRID",
+    "province" : "MADRID",
+    "country" : "SPAIN",
+
+    "date": "2017-05-14",
+    "startTime" : "18:00",
+    "endTime" : "21:00"
+}
