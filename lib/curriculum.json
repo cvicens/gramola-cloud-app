@@ -1,0 +1,13 @@
+{
+    "cid": "0001",
+    "firstName": "Paco",
+    "lastName": "Roncero",
+    "nickName": "Paco Roncero",
+    "biography": "Paco Roncero began his cooking career vocationally. He trained at the School of Hospitality and Tourism of Madrid, and he spent time working at Zalacaín (three Michelin stars) and Hotel Ritz until 1991, when he joined the staff of the Casino de Madrid and worked for some years with Ferran Adrià. In 1996, he became head chef of the banquets department there, and in 2000 he ascended to the rank of head of kitchen, still under the direction of NH Hoteles, including among his responsibilities running La Terraza del Casino, which earned its first Michelin star two years later, in 2002.[citation needed] Roncero has won prestigious culinary awards, including the Chef L'Avenir Award 2005, awarded by the International Academy of Gastronomy.",
+    "photo": "",
+    "restaurant": "La Terraza del Casino, Madrid, Spain",
+    "distinctions": {
+        "michelin" : 2,
+        "la_liste": 95.75
+    }
+}
