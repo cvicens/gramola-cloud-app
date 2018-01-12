@@ -8,6 +8,8 @@
     "fast-json-stable-stringify": "^2.0.0",
     "fh-mbaas-api": "~8.0.2",
     "grunt": "^1.0.1",
+    "jaeger-client": "^3.7.0",
+    "opentracing": "^0.14.1",
     "request": "2.79.0",
     "request-promise": "^4.2.2",
     "underscore": "^1.8.3"
