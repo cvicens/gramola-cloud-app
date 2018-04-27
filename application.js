@@ -42,9 +42,8 @@ app.use('/hello', require('./lib/hello.js')());
 // Endpoint to call Openshift services within the same MBaaS Environment /service/<app-name>/<path>?<query-string>
 app.use('/service', require('./lib/service.js')());
 
-app.use('/curricula', require('./lib/curricula.js')());
+// Events
 app.use('/events', require('./lib/events.js')());
-app.use('/recipes', require('./lib/recipes.js')());
 
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());

@@ -1,15 +1,41 @@
+[
 {
     "id": "0001",
-    "chef": "0001",
 
-    "recipe": "0001",
+    "name": "Guns 'n' Roses 2018",
 
     "address" : "Calle Alcalá 1",
     "city" : "MADRID",
     "province" : "MADRID",
     "country" : "SPAIN",
 
-    "date": "2017-05-14",
+    "date": "2018-04-27",
     "startTime" : "18:00",
-    "endTime" : "21:00"
+    "endTime" : "21:00",
+
+    "location": "Plaza de toros de la Ventas",
+    "artist": "Guns 'n' Roses",
+    "description": "Lorem ipsum...",
+    "image": "images/guns-P1080795.png"
 }
+,
+{
+    "id": "0002",
+
+    "name": "Foo Fighters 2018",
+
+    "address" : "Calle Alcalá 1",
+    "city" : "MADRID",
+    "province" : "MADRID",
+    "country" : "SPAIN",
+
+    "date": "2018-04-27",
+    "startTime" : "18:00",
+    "endTime" : "21:00",
+
+    "location": "Plaza de toros de la Ventas",
+    "artist": "Foo Fighters",
+    "description": "Lorem ipsum...",
+    "image": "images/foo-P1000750.png"
+}
+]
