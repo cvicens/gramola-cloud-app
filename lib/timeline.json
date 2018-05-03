@@ -1,0 +1,29 @@
+[
+{
+    "id": "0001",
+    "eventId": "0001",
+    "userId": "trever",
+
+    "title": "Waiting at the entrance!",
+
+    "date": "2018-04-27",
+    "time" : "18:00",
+
+    "description": "Lorem ipsum...",
+    "image": "images/guns-P1080795.png"
+}
+,
+{
+    "id": "0002",
+    "eventId": "0001",
+    "userId": "trever",
+
+    "title": "About to start!",
+
+    "date": "2018-04-27",
+    "time" : "18:00",
+
+    "description": "Presumably epic... let's see!",
+    "image": "images/guns-P1080795.png"
+}
+]

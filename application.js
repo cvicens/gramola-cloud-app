@@ -45,6 +45,9 @@ app.use('/service', require('./lib/service.js')());
 // Events
 app.use('/events', require('./lib/events.js')());
 
+// Timeline
+app.use('/timeline', require('./lib/timeline.js')());
+
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());
 
